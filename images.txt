@@ -1,1 +1,1 @@
-sameersbn/gitlab:17.0.3-1
+sameersbn/gitlab
