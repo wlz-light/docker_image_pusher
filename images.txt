@@ -1,1 +1,2 @@
 sameersbn/gitlab
+minio/minio
