@@ -1,2 +1,1 @@
-sameersbn/gitlab
-minio/minio
+yangliu/nps
