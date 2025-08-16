@@ -1,1 +1,1 @@
-mongo:latest
+sameersbn/gitlab:17.11.7
